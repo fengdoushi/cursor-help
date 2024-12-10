@@ -25,5 +25,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 本软件源码是cursor.py
-本软件实现是基于go-cursor-help来修改的
+本软件实现是基于go-cursor-help提供的方法来实现的
 谢谢go-cursor-help
