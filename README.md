@@ -27,3 +27,4 @@ The above copyright notice and this permission notice shall be included in all c
 本软件源码是cursor.py
 本软件实现是基于go-cursor-help提供的方法来实现的
 谢谢go-cursor-help
+好用点个stat谢谢了
